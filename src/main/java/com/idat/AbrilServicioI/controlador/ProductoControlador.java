@@ -17,9 +17,9 @@ import com.idat.AbrilServicioI.modelo.Productos;
 import com.idat.AbrilServicioI.servicio.ProductoServicio;
 
 
-//http://localhost:8080/producto/v1/listar/
+//http://localhost:8080/producto/v1/listar
 @RestController
-@RequestMapping("producto/v1")
+@RequestMapping("/producto/v1")
 public class ProductoControlador {
 	
 	@Autowired

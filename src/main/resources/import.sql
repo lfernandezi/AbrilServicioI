@@ -1,0 +1,1 @@
+insert into usuarios (usuario, password, rol) values ('profesor','$2a$12$.vzAhoHOLrhwStEyGvNj5eSRTNzinCvu1YfiPAIkmvlsZnDr2qohu','ROLE_ADMIN')
